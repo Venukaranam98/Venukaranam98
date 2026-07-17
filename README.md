@@ -51,19 +51,19 @@ Backend Developer from India focused on building scalable APIs, authentication s
 </p>
 
 <p align="center">
-  <a href="https://github.com/Venukaranam98">
-    <img height="180em" alt="Venugopal's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=Venukaranam98&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" />
-    <img height="180em" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=Venukaranam98&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
+  <a href="https://github.com/vk-09857">
+    <img height="180em" alt="Venugopal's github stats" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=vk-09857&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" />
+    <img height="180em" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=vk-09857&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" />
   </a>
 </p>
 <br/>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Venukaranam98&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=vk-09857&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak Stats" />
 </p>
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venukaranam98/Venukaranam98/output/github-contribution-grid-snake-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venukaranam98/Venukaranam98/output/github-contribution-grid-snake-Light.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Venukaranam98/Venukaranam98/output/github-contribution-grid-snake-Light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vk-09857/vk-09857/output/github-contribution-grid-snake-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vk-09857/vk-09857/output/github-contribution-grid-snake-Light.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vk-09857/vk-09857/output/github-contribution-grid-snake-Light.svg">
 </picture>
