@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Building+Scalable+Backend+Systems;FastAPI+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;Authentication+%E2%80%A2+Payments+%E2%80%A2+Redis" alt="Typing SVG" />
 </p>
 
-<h1>Hi 👋 I'm Venugopal Karanam</h1>
+<h1>Hi, I'm Venugopal Karanam</h1>
 
 <p>
 Backend Developer from India focused on building scalable APIs, authentication systems, payment infrastructure, and backend services using FastAPI, Python, PostgreSQL, Redis, and Docker.
